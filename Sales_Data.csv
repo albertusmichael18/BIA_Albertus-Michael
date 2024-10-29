@@ -1,4 +1,3 @@
-Sales ID,Date of Sale,Customer ID,Product Name,Product Category,Quantity Sold,Price per Unit,Salesperson ID,Region,Total Sale Value
 S-10000,2024-01-23,65d17e58-40be-4c28-b28d-cbb0350ddbee,Printer,Office Supplies,13,698.8,88902622-94cc-4a94-8e0f-93b409f91321,West,9084.4
 S-10001,2024-04-30,0fa52e0e-5494-4d67-afee-066c07818034,Monitor,Office Supplies,9,328.69,ab298ec9-7cba-4534-a453-386e694794b7,South,2958.21
 S-10002,2024-06-04,6893f807-082f-4b06-b4bc-47923d26d43e,Keyboard,Office Supplies,1,816.99,779bed89-cc60-4117-9887-25548723e844,West,816.99
